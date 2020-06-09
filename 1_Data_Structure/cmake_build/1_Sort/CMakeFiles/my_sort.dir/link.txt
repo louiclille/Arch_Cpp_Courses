@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/my_sort.dir/my_sort.o  -o my_sort 
