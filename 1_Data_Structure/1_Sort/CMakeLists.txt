@@ -1,4 +1,4 @@
 add_executable(
     my_sort
-    my_sort.c
+    my_sort.cpp
     )
